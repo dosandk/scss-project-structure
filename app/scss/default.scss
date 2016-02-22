@@ -1,0 +1,23 @@
+@import "base";
+@import "compass/reset";
+
+.social-icon {
+    background: sprite-url($social-icon) no-repeat;
+    .fb-icon {
+        @include sprite($social-icon, 'fb-icon', true);
+    }
+    .tw-icon {
+        @include sprite($social-icon, 'tw-icon', true);
+    }
+    .vk-icon {
+        @include sprite($social-icon, 'vk-icon', true);
+    }
+}
+
+.ui {
+    background: sprite-url($ui-sprite) no-repeat;
+}
+
+.admin {
+    background: sprite-url($admin-sprite) no-repeat;
+}

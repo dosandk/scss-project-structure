@@ -1,0 +1,19 @@
+$elektra-fonts-names:(
+    'elektra-light-pro'         : '300',
+    'elektra-medium-pro'        : '500',
+    'elektra-light-pro-bold'    : '700',
+    'elektra-medium-pro-italic' : '500'
+);
+
+$elektra-fonts-fallbacks:(
+    'elektra-light-pro'         : 'serif',
+    'elektra-medium-pro'        : 'serif',
+    'elektra-light-pro-bold'    : 'serif',
+    'elektra-medium-pro-italic' : 'serif'
+);
+
+$elektra-font-path: 'elektra';
+
+$ui-sprite: sprite-map('ui/*.png', $layout: 'horizontal', $spacing: 10px);
+$admin-sprite: sprite-map('admin/*.png', $layout: 'vertical', $spacing: 10px);
+$social-icon: sprite-map('ui/social-icons/*.png', $layout: 'smart', $spacing: 4px);

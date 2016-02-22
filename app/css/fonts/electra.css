@@ -1,0 +1,32 @@
+/* font-weight: 300 */
+@font-face {
+  font-family: "elektra-light-pro";
+  src: url('../../fonts/elektra/elektra-light-pro.eot?1436971657');
+  src: url('../../fonts/elektra/elektra-light-pro.eot?&1436971657#iefix') format('embedded-opentype'), url('../../fonts/elektra/elektra-light-pro.woff?1436971657') format('woff'), url('../../fonts/elektra/elektra-light-pro.ttf?1436971657') format('truetype'), url('../../fonts/elektra/elektra-light-pro.svg?1436971657#elektra-light-pro') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* font-weight: 500 */
+@font-face {
+  font-family: "elektra-medium-pro";
+  src: url('../../fonts/elektra/elektra-medium-pro.eot?1436971657');
+  src: url('../../fonts/elektra/elektra-medium-pro.eot?&1436971657#iefix') format('embedded-opentype'), url('../../fonts/elektra/elektra-medium-pro.woff?1436971657') format('woff'), url('../../fonts/elektra/elektra-medium-pro.ttf?1436971657') format('truetype'), url('../../fonts/elektra/elektra-medium-pro.svg?1436971657#elektra-medium-pro') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* font-weight: 700 */
+@font-face {
+  font-family: "elektra-light-pro-bold";
+  src: url('../../fonts/elektra/elektra-light-pro-bold.eot?1436971657');
+  src: url('../../fonts/elektra/elektra-light-pro-bold.eot?&1436971657#iefix') format('embedded-opentype'), url('../../fonts/elektra/elektra-light-pro-bold.woff?1436971657') format('woff'), url('../../fonts/elektra/elektra-light-pro-bold.ttf?1436971657') format('truetype'), url('../../fonts/elektra/elektra-light-pro-bold.svg?1436971657#elektra-light-pro-bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* font-weight: 500 */
+@font-face {
+  font-family: "elektra-medium-pro-italic";
+  src: url('../../fonts/elektra/elektra-medium-pro-italic.eot?1436971657');
+  src: url('../../fonts/elektra/elektra-medium-pro-italic.eot?&1436971657#iefix') format('embedded-opentype'), url('../../fonts/elektra/elektra-medium-pro-italic.woff?1436971657') format('woff'), url('../../fonts/elektra/elektra-medium-pro-italic.ttf?1436971657') format('truetype'), url('../../fonts/elektra/elektra-medium-pro-italic.svg?1436971657#elektra-medium-pro-italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
